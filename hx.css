@@ -1,0 +1,54 @@
+#love1{
+    height:200px;
+    width:260px;
+    background-color: rgb(156, 233, 233);
+    border-color: black;
+    color: black;
+}
+body{
+    background-image: url("https://tse4.mm.bing.net/th?id=OIP.1ntiTnkkqzMkPoCAOO2clwHaEo&pid=Api&P=0&h=180");
+    background-size: cover;
+}
+#love2{
+    height:200px;
+    width:260px;
+    background-color: rgb(173, 239, 155);
+    border-color: black;
+    color: black;
+}
+#love3{
+    height:200px;
+    width:260px;
+    background-color: rgb(225, 168, 209);
+    border-color: black;
+    color: black;
+}
+#love4{
+    height:200px;
+    width:260px;
+    background-color: rgb(239, 164, 150);
+    border-color: black;
+    color: black;
+}
+button{
+    width:100px;
+    height:100px;
+    padding: 20px;
+    margin-top: 15px;
+    border-radius:50%;
+    cursor: pointer;
+}
+#display{
+    text-align: center;
+    font-size: 5 rem;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    height:120px;
+    width:255px;
+    color:black;
+}
+button:hover{
+    background-color: rgb(234, 226, 238);
+}
+button:active{
+    background-color: rgb(153, 226, 216);
+}
